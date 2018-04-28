@@ -1,0 +1,2 @@
+1. http://www.deeplearningbook.org/
+2. http://www.cse.wustl.edu/~garnett/cse515t/spring_2017/
