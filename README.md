@@ -3,7 +3,7 @@
 
 ## 1. Calibrating parameters of all nine models. (C++: Premia package)
 ## 2. For each model, deriving the log-likelihood function for each time step and keep updating.
-## 3. Calculate quadratic error of option pricing for each model. 
+## 3. Calculate the quadratic error of option pricing given derived parameters of each model. 
 ## 4. Bayesian analysis
 
 ## (2) and (3) ===> Machine Learning?
